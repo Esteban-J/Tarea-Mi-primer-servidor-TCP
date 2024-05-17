@@ -10,7 +10,6 @@ You can click the followin link to download the app source code files: https://g
 
 To be able to run and test the code above you'll need to have NodeJs already install in your system as this code is interpreted by the Node run-time enviorement.
 
-```
 
 ### Installing
 
