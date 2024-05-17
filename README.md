@@ -42,7 +42,7 @@ node server.js
 ```
 A server will be created and clintes will be able to connect to it.
 
-In the other terminals run the clien.js script, as many clients as you desire to have.
+In the other terminals run the client.js script, as many clients as you desire to have.
 ```
 node client.js
 ```
