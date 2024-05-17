@@ -13,7 +13,7 @@ To be able to run and test the code above you'll need to have NodeJs already ins
 
 ### Installing
 
-####Installing Node
+#### Installing Node
 
 For Linux (using apt package manager, for Ubuntu/Debian):
 ```
